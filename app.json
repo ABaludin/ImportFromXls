@@ -1,0 +1,26 @@
+{
+  "id": "f05f047e-bb68-455d-b0a3-e4ff6a19d3e6",
+  "name": "LocInventory",
+  "publisher": "Andrey Baludin",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "target": "Internal",
+  "runtime": "3.0"
+}
